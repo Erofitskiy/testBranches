@@ -9,4 +9,8 @@ public class Main {
 
     }
 
+    public void f(){
+        System.out.println("this is f");
+    }
+
 }
