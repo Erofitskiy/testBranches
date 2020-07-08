@@ -8,10 +8,12 @@ public class Main {
         System.out.println(i1);
 
     }
-
-
+  
     void f1(){
         System.out.println("f1");
+
+    public void f(){
+        System.out.println("this is f");
     }
 
 }
