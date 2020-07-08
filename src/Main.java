@@ -9,4 +9,9 @@ public class Main {
 
     }
 
+
+    void f1(){
+        System.out.println("f1");
+    }
+
 }
